@@ -1,6 +1,6 @@
 # Memory and Aging Center - AI Office Hours 
-
-## Topics Covered
+## Pedro Pinheiro-Chagas, PI
+## Margo Kersey, TA
 
 ### 1. Programming with Python and VSCode
 - **Introduction to Python**: The academia and industry standard programming language.
