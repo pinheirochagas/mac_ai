@@ -2,8 +2,8 @@
 ## Pedro Pinheiro-Chagas, PI & Margo Kersey, TA
 
 
-[!NOTE]  
-Program for Jan. 24 Session:
+> [!NOTE]  
+> Program for Jan. 24 Session:
 
 ### 1. Programming with Python and VSCode
 - **Introduction to Python**: The academia and industry standard programming language.
