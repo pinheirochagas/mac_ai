@@ -27,6 +27,20 @@ Before you begin, make sure you are following the instructions for your specific
   - Download VSCode from [Visual Studio Code's official website](https://code.visualstudio.com/download).
   - After installation, open VSCode to familiarize yourself with its interface.
 
+### 5. Setting Up GitHub Copilot in VSCode
+
+- GitHub Copilot is an AI-powered code completion tool ($10/month) that can help you write code faster and learn new APIs and languages.
+
+- **Install GitHub Copilot**:
+  - In VSCode, go to the Extensions view by clicking on the square icon on the left sidebar.
+  - Search for "GitHub Copilot" and install the extension.
+  - Once installed, GitHub Copilot will start suggesting code completions as you type in supported languages and files.
+
+- **Using GitHub Copilot**:
+  - As you type in your code editor, Copilot will offer suggestions. Press `Tab` to accept a suggestion.
+  - You can trigger Copilot manually by typing a comment describing the logic you want to implement and then press `Ctrl` + `Space` (or `Cmd` + `Space` on macOS) to get a code suggestion.
+
+
 ## Basic Git Setup
 
 Git is a distributed version control system, essential for tracking changes in your code and collaborating with others.
