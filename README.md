@@ -3,9 +3,9 @@
 
 
 > [!NOTE]  
-> ## Program for Jan. 24 Session:
+> ### Program for Jan. 24 Session:
 > - Introduction to data-handling and machine learning in Python
-> - Introduction to UCSF ChatGPT API in Python
+> - Introduction to UCSF ChatGPT API in Python\\
 
 
 ### 1. Programming with Python and VSCode
