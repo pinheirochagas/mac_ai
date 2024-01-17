@@ -2,11 +2,8 @@
 ## Pedro Pinheiro-Chagas, PI & Margo Kersey, TA
 
 
-```html
-   ## <span style="color:green">Program for Jan. 24 Session:</span>
-- <span style="color:green">Introduction to data-handling and machine learning in Python</span>
-- <span style="color:green">Introduction to UCSF ChatGPT API in Python</span>
-```
+[!NOTE]  
+Program for Jan. 24 Session:
 
 ### 1. Programming with Python and VSCode
 - **Introduction to Python**: The academia and industry standard programming language.
