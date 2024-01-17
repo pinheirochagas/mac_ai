@@ -57,6 +57,7 @@ Git is a distributed version control system, essential for tracking changes in y
   - If you don't have a GitHub account, create one at [github.com/join](https://github.com/join).
   - Set your Git username and commit email as per the guides on GitHub:
     - [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
+      - *Note: Use your personal email so that you can continue using it as long as you need
     - [Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
   - Create and manage your personal access tokens as described [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
 
