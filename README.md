@@ -1,6 +1,10 @@
 # Memory and Aging Center - AI Office Hours 
 ## Pedro Pinheiro-Chagas, PI & Margo Kersey, TA
 
+## <span style="color:green">Program for Jan. 24 Session:</span>
+- <span style="color:green">Introduction to data-handling and machine learning in Python</span>
+- <span style="color:green">Introduction to UCSF ChatGPT API in Python</span>
+
 ### 1. Programming with Python and VSCode
 - **Introduction to Python**: The academia and industry standard programming language.
 - **Using VSCode**: Setup a Python development environment in Visual Studio Code, the most versatile code editor. 
