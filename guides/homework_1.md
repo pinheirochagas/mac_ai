@@ -1,7 +1,7 @@
 ### Coding Homework: Analysis Library for Dementia Patient Data
 
 #### Overview
-In this assignment, you are tasked with developing a Python library called `DementiaAnalysis` designed to analyze a simulated dataset containing neuropsychological assessments and basic demographics of a cohort of patients with dementia. This library will help you practice data manipulation, visualization, and statistical analysis using Python. Your library will consist of three modules: `importer`, `viz`, and `stats`. Each module will have specific functions to import data, visualize it, and perform statistical analyses, respectively.
+In this assignment, you are tasked with developing a Python library called `DementiaAnalysis` designed to analyze a simulated dataset containing neuropsychological assessments and basic demographics of a cohort of patients with dementia (`simulated_cognitive_tests_dataset.csv` in `/guides`). This library will help you practice data manipulation, visualization, and statistical analysis using Python. Your library will consist of three modules: `importer`, `viz`, and `stats`. Each module will have specific functions to import data, visualize it, and perform statistical analyses, respectively.
 
 #### Dataset Description
 The dataset is a simulated collection of neuropsychological assessments for patients with dementia, including basic demographic information. The data is stored in CSV format and contains the following columns:
