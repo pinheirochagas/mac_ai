@@ -54,7 +54,5 @@ The dataset is a simulated collection of neuropsychological assessments for pati
 - **Documentation:** The README.md and docstrings provide clear instructions and descriptions.
 - **Error Handling:** The code gracefully handles errors and provides informative error messages.
 
-#### Deadline
-Please submit your completed assignment via the learning management system by [Insert Deadline Here].
 
 This assignment will test your ability to manipulate, visualize, and analyze data using Python. It will also give you the opportunity to develop a project that could be included in your portfolio. Good luck!
