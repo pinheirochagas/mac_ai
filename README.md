@@ -3,9 +3,8 @@
 
 
 > [!NOTE]  
-> ### Program for Jan. 24 Session:
-> - Introduction to data-handling and machine learning in Python
-> - Introduction to UCSF ChatGPT API in Python
+> ### Program for Feb 8th Session:
+> - Homework review - see homework_1.py in guides. 
 <p>&nbsp;</p>
 
 ### 1. Programming with Python and VSCode
