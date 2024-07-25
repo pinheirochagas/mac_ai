@@ -6,7 +6,7 @@ This guide provides step-by-step instructions for beginners to set up Python and
 
 Before you begin, make sure you are following the instructions for your specific operating system: Windows, macOS, or Linux.
 
-### 1. Installing oh-my-zsh (macOS/Linux)
+### 1. Installing oh-my-zsh (macOS/Linux only)
 - For a better terminal experience, install [oh-my-zsh](https://ohmyz.sh/#install). Note: This step is optional and specifically for macOS and Linux users.
   - Follow the instructions on the website. You might be prompted to install "Developer tools," which could take some time.
   - After installation, open a new terminal window to see the changes.
