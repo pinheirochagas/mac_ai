@@ -13,7 +13,7 @@ Before you begin, make sure you are following the instructions for your specific
 
 ### 2. Setting Up Anaconda
 - Anaconda is a popular Python distribution for data science and machine learning. It simplifies package and version management, making it easier to manage dependencies for various projects. This is especially beneficial for projects that require specific versions of libraries and Python itself.
-  - Follow the directions for you operating system to [install Anaconda](https://www.anaconda.com/download](https://docs.anaconda.com/anaconda/install/).
+  - Follow the directions for you operating system to [install Anaconda](https://docs.anaconda.com/anaconda/install/).
   - Use the "Graphical install" directions if you are not familiar with the terminal or the "Command line install" directions if you are familiar.
 
 ### 3. Installing VSCode
