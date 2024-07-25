@@ -6,28 +6,23 @@ This guide provides step-by-step instructions for beginners to set up Python and
 
 Before you begin, make sure you are following the instructions for your specific operating system: Windows, macOS, or Linux.
 
-### 1. Checking Python Installation
-- **All Operating Systems**: Open the Terminal (or Command Prompt in Windows) and enter `python --version`. This checks if Python is already installed and displays the installed version.
-  - If Python is not installed, download it from [Python's official website](https://www.python.org/downloads/).
-  - During installation, ensure to select "Add to PATH" if prompted.
-  - After installation, verify the installation by typing `python --version` in the terminal again.
-
-### 2. Installing oh-my-zsh (macOS/Linux)
+### 1. Installing oh-my-zsh (macOS/Linux)
 - For a better terminal experience, install [oh-my-zsh](https://ohmyz.sh/#install). Note: This step is optional and specifically for macOS and Linux users.
   - Follow the instructions on the website. You might be prompted to install "Developer tools," which could take some time.
   - After installation, open a new terminal window to see the changes.
 
-### 3. Setting Up Anaconda
+### 2. Setting Up Anaconda
 - Anaconda is a popular Python distribution for data science and machine learning. It simplifies package and version management, making it easier to manage dependencies for various projects. This is especially beneficial for projects that require specific versions of libraries and Python itself.
-  - Download Anaconda from [here](https://www.anaconda.com/download).
-  - After installation, open the Terminal and type `conda init` to initialize your conda environment each time you open a terminal window.
+  - Follow the directions for you operating system to [install Anaconda](https://www.anaconda.com/download](https://docs.anaconda.com/anaconda/install/).
+  - Use the "Graphical install" directions if you are not familiar with the terminal or the "Command line install" directions if you are familiar.
 
-### 4. Installing VSCode
+### 3. Installing VSCode
 - Visual Studio Code (VSCode) is a lightweight but powerful source code editor.
   - Download VSCode from [Visual Studio Code's official website](https://code.visualstudio.com/download).
   - After installation, open VSCode to familiarize yourself with its interface.
+  - When working on a project, we typically open a Github repository folder in a code window so you have everything you need at your fingertips.
 
-### 5. Setting Up GitHub Copilot in VSCode
+### 4. Setting Up GitHub Copilot in VSCode (**No longer reccommended for UCSF security reasons**)
 
 - GitHub Copilot is an AI-powered code completion tool ($10/month) that can help you write code faster and learn new APIs and languages.
 
