@@ -59,18 +59,18 @@ Git is a distributed version control system, essential for tracking changes in y
   - Click on the “GitHub Account Request Form” link.
   - Choose the "User account on-premises" option to request access to the UCSF's secure GitHub Enterprise environment.
 
-- **Setting Up**:
+### 3. Setting up your GitHub Credentials
   - Set your Git username and commit email as per the guides on GitHub:
   - [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
   - [Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
 - Create and manage your personal access tokens as described [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
 
-- **Cloning a GitHub Repository**
+### 4. Cloning a GitHub Repository for the First Time
   - A GitHub repository is where you can store your code, files, and track changes.
   - Cloning is the process of creating a local copy of a remote repository to your own computer. When you clone a repository, you're copying all its contents—including the entire version history and all branches—to your local machine. This allows you to work on the project independently, make changes, and then sync those changes back with the remote repository when you're ready.
   - 1. Create a folder for your projects, e.g., `/Users/yourname/code`.
   - 2. Navigate to this folder in the Terminal with `cd code`.
-  - 3. Find the repository on [GitHub](https://github.com/) that you need to clone, click the green "Code" button, and copy the HTTPS URL.
+  - 3. Find the repository on [GitHub](https://github.com/) or [UCSF GitHub](https://git.ucsf.edu/) that you need to clone, click the green "Code" button, and copy the HTTPS URL.
   - 4. Clone the repository locally with `git clone [paste your copied link here]`.
 
 ## Versa Chat and API
@@ -90,4 +90,3 @@ Git is a distributed version control system, essential for tracking changes in y
   - [Python Tutorials](https://docs.python.org/3/tutorial/)
   - [Git Tutorials](https://git-scm.com/doc)
   - [GitHub Learning Lab](https://lab.github.com/)
-  
