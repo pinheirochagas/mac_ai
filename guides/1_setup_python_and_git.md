@@ -47,11 +47,9 @@ Git is a distributed version control system, essential for tracking changes in y
 - **Windows/Linux**: Follow the Git installation guide for your operating system from [Git's official website](https://git-scm.com/downloads).
   - This website provides detailed instructions for downloading and installing Git on Windows and Linux systems.
 
-### 2. Setting Up GitHub
-- GitHub is a platform for hosting and collaborating on Git repositories.
-- If you don't have a GitHub account, create one at [github.com/join](https://github.com/join).
-
-### 3. Requesting a GitHub Enterprise Account
+### 2. Requesting a GitHub Enterprise Account
+- **What is GitHub?**
+  - GitHub is a platform for version control and collaboration, used to host and manage code repositories.
 - **Why Choose GitHub Enterprise?**
   - GitHub Enterprise is a more secure option than a personal GitHub account, especially for handling sensitive or proprietary information. It offers enhanced security features, including better control over access and more robust monitoring capabilities.
   - For UCSF-related projects, it is recommended to use a UCSF GitHub Enterprise account to ensure compliance with institutional policies and data protection standards.
@@ -75,25 +73,21 @@ Git is a distributed version control system, essential for tracking changes in y
   - 3. Find the repository on [GitHub](https://github.com/) that you need to clone, click the green "Code" button, and copy the HTTPS URL.
   - 4. Clone the repository locally with `git clone [paste your copied link here]`.
 
-### 4. Requesting Access to UCSF Versa Chat and API
-- **What is Versa Chat and API?**
-  - Versa Chat is a secure, UCSF-deployed chat platform that uses large language models for safe and efficient collaboration, even with sensitive data.
-  - The Versa API provides programmatic access to these large language models, which can be useful for automating data processing tasks or integrating natural language processing capabilities into your applications.
+## Versa Chat and API
 
-- **How to Request Access**:
+**Versa Chat** is a secure, UCSF-deployed chat platform that uses large language models for safe and efficient collaboration, even with sensitive data.
+
+**Versa API** provides programmatic access to these large language models, which can be useful for automating data processing tasks or integrating natural language processing capabilities into your applications.
+
+### 1. Requesting Access to UCSF Versa Chat and API
   - Visit the following [UCSF Versa Chat and API link](https://ai.ucsf.edu/platforms-tools-and-resources/versa-chat-and-api) and locate the section for "Request access now."
   - Complete the access request form to gain permissions to use these tools for UCSF-related projects, ensuring compliance with data security protocols.
 
-### Additional Resources
+### 2. You will be prompted to complete a short AI Safety Course, after which you will be granted access to the tools.
+
+## Additional Resources
 - For further learning, explore additional Python tutorials and Git/GitHub guides:
   - [Python Tutorials](https://docs.python.org/3/tutorial/)
   - [Git Tutorials](https://git-scm.com/doc)
   - [GitHub Learning Lab](https://lab.github.com/)
-
-### Feedback and Contributions
-- Your feedback is valuable to improve this guide. Feel free to contribute or suggest changes by contacting us or submitting a pull request if this guide is hosted on a platform like GitHub.
-
-### Security Best Practices
-- Remember to use strong, unique passwords for your accounts and enable two-factor authentication (2FA) for GitHub for added security.
-
-## Congrats, you have successfully set up Python and Git/GitHub on your computer!
+  
