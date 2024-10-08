@@ -15,11 +15,13 @@ Before you begin, make sure you are following the instructions for your specific
 ### 2. Setting Up Anaconda
 - Anaconda is a popular Python distribution for data science and machine learning. It simplifies package and version management, making it easier to manage dependencies for various projects. This is especially beneficial for projects that require specific versions of libraries and Python itself.
 - Follow the directions for your operating system to [install Anaconda](https://docs.anaconda.com/anaconda/install/).
+  - To check which type of processor your computer uses (i.e. Apple Silicon or Intel), click on the Apple symbol in the top left of your computer and then "About this MAC" and look under "Chip". If you have a PC it will typically be Intel. Make sure to install the version of Anaconda software that lines up with your processor type.
 - Use the "Graphical install" directions if you are not familiar with the terminal, or the "Command line install" directions if you are familiar.
 
 ### 3. Installing VSCode
 - Visual Studio Code (VSCode) is a lightweight but powerful source code editor.
 - Download VSCode from [Visual Studio Code's official website](https://code.visualstudio.com/download).
+  - Again, remember to install the correct version for your processor (Apple Silicon, Intel, etc.)
 - After installation, open VSCode to familiarize yourself with its interface.
 - When working on a project, open a GitHub repository folder in a code window so you have everything you need at your fingertips.
 
