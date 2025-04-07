@@ -65,7 +65,7 @@ Git is a distributed version control system, essential for tracking changes in y
   - Set your Git username and commit email as per the guides on GitHub:
   - [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
   - [Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
-- Create and manage your personal access tokens as described [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
+- Create and manage your personal access tokens as described [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens). I recommend creating an all-access token and store it in a secure place. When you are committing changes to GitHub and are prompted to enter your password, you will paste this token (*not* your GitHub account password).
 
 ### 4. Cloning a GitHub Repository for the First Time
   - A GitHub repository is where you can store your code, files, and track changes.
